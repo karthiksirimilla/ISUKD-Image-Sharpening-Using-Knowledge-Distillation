@@ -15,7 +15,7 @@ A Streamlit web application that demonstrates image sharpening using knowledge d
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/karthiksirimilla/ISUKD-Image-Sharpening-Using-Knowledge-Distillation)
    cd ISUKD-Image-Sharpening-Using-Knowledge-Distillation
    ```
 
