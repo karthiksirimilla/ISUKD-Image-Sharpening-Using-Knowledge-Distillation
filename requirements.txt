@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+numpy
+opencv-python
+scikit-image
+matplotlib
+scikit-image
+Pillow
+git+https://github.com/swz30/Restormer.git
